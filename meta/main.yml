@@ -1,3 +1,5 @@
 ---
 dependencies:
-  - src: git+https://github.com/pstauffer/ansible-sample_role1
+  - src: https://github.com/pstauffer/ansible-sample_role1
+    scm: git
+    name: sample_role1
