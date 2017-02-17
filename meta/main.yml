@@ -1,0 +1,3 @@
+---
+dependencies:
+  - role: git+https://github.com/pstauffer/ansible-sample_role1
